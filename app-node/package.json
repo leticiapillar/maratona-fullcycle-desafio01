@@ -1,0 +1,15 @@
+{
+  "name": "maratona-fullcycle-desafio-01",
+  "version": "1.0.0",
+  "description": "Maratona FullCycle 4.0 ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "author": "Leticia Pillar Lisboa",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
